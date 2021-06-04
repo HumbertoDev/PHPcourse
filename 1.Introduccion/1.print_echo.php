@@ -3,8 +3,10 @@
 
 <!-- PRINT: imprime -->
 <?php 
+#Se pueden usar etiquetas html dentro de php
 print "<h1>Mi Primer Codigo PHP! con print</h1>";
 ?>
+
 <br> <br>
 <!-- ECO : imprime VARIOS resultados, es el mas usado-->
 

@@ -52,7 +52,7 @@
     <p>It's very simple. With PHP you can reuse a lot of code, but it will be a chaos if you include<br>a function with the same variables names of your document.</p>
     <p>PHP prevents you to accidentaly modify your own archive with other code variables.</p>
 
-    <p>If you want to use other code, first set your variables as global in the imported function and everything will work <br>without any problem</p>
+    <p>If you want to use other code, first set your variables as global in the imported function and everything will work <br>without any problem.</p>
 
 </body>
 </html>
